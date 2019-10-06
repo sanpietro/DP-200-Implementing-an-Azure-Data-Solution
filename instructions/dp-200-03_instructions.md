@@ -179,7 +179,7 @@ The main tasks for this exercise are as follows:
 
 1. In the register an application screen, provide the **name** of **DLAccess** and under the **Redirect URI (optional)** section, ensure **Web** is selected and type **https://adventureworks.org/exampleapp** for the application value. After setting the values, select **Register**. The DLAccess screen will appear.
 
-1. In the **DLAccess** registered app screen, copy the **Application ID** and **Tenant ID** and paste both into Notepad.
+1. In the **DLAccess** registered app screen, copy the **Application ID** and **Tenant ID (THIS IS WRONG. IT IS NOT THE CORRECT TENANT ID. THE ACTUAL TENANT ID IS STATED FURTHER DOWN, CALLED "DIRECTORY ID"** and paste both into Notepad.
 
 1. In the **DLAccess** registered app screen, click on **Certificates and Secrets**, and the click **+New Client Secret..**
 
