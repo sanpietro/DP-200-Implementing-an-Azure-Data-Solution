@@ -336,7 +336,7 @@ The main tasks for this exercise are as follows:
 1. In the Notebook, in the cell  **Cmd 6**, copy the following code and paster it into the cell:
 
     ```text
-    This code connects to the Data Lake Storage filesystem named "Data" and reads data in the preferences.json file stored in that data lake. Then a simple query has been created to retrieve data and the column "page" has been renamed to "bike_preference".
+    //This code connects to the Data Lake Storage filesystem named "Data" and reads data in the preferences.json file stored in that data lake. Then a simple query has been created to retrieve data and the column "page" has been renamed to "bike_preference". -->
     ```
 
 1. In the Notebook, in the cell under **Cmd 6**, click on the **down pointing arrow** icon and click on **Move up**. Repeat until the cell appears at the top of the Notebook.
