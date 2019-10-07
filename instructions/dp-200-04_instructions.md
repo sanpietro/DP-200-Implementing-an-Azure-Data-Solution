@@ -105,7 +105,7 @@ The main tasks for this exercise are as follows:
 
     - Container id:  **Clothing**
 
-    - Partition key: **/productId**
+    - Partition key: **/productId** (make sure you capitalize the "I")
 
     - Leave the remaining options with their default values
 
@@ -288,7 +288,7 @@ The main tasks for this exercise are as follows:
                 context.getResponse().setBody(documentCreated)
             });
         if (!accepted) return;
-}
+    }
     ```
 
 1. In the New Stored Procedure screen, click **Save**.
